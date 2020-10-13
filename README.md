@@ -3,7 +3,7 @@
 Alumno: Juan Ramón Díaz Fernández
 
 
-Tarea 01:  (14/10/2020)  Módulos 1 y 2 (20483)
+Tarea 01:  (14/10/2020)  Módulos 1 y 2 (20483) https://github.com/juanradev/20483_TAREAS/tree/main/Tareas01
 
 Tarea 00:  (13/10/2020)  Uso de Datos en C#  https://github.com/juanradev/20483_TAREAS/tree/main/00usodatosenc%23
 
