@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\jemplowriteline\obj\Debug\netcoreapp3.1\jemplowriteline.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\jemplowriteline\obj\Debug\netcoreapp3.1\jemplowriteline.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\jemplowriteline\obj\Debug\netcoreapp3.1\jemplowriteline.AssemblyInfo.cs
+C:\Users\juan_\source\repos\jemplowriteline\obj\Debug\netcoreapp3.1\jemplowriteline.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\jemplowriteline\bin\Debug\netcoreapp3.1\jemplowriteline.exe
+C:\Users\juan_\source\repos\jemplowriteline\bin\Debug\netcoreapp3.1\jemplowriteline.deps.json
+C:\Users\juan_\source\repos\jemplowriteline\bin\Debug\netcoreapp3.1\jemplowriteline.runtimeconfig.json
+C:\Users\juan_\source\repos\jemplowriteline\bin\Debug\netcoreapp3.1\jemplowriteline.runtimeconfig.dev.json
+C:\Users\juan_\source\repos\jemplowriteline\bin\Debug\netcoreapp3.1\jemplowriteline.dll
+C:\Users\juan_\source\repos\jemplowriteline\bin\Debug\netcoreapp3.1\jemplowriteline.pdb
+C:\Users\juan_\source\repos\jemplowriteline\obj\Debug\netcoreapp3.1\jemplowriteline.dll
+C:\Users\juan_\source\repos\jemplowriteline\obj\Debug\netcoreapp3.1\jemplowriteline.pdb
+C:\Users\juan_\source\repos\jemplowriteline\obj\Debug\netcoreapp3.1\jemplowriteline.genruntimeconfig.cache
