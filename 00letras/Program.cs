@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Runtime.CompilerServices;
 
-namespace jemplowriteline
+namespace letras
 {
     class Program
     {

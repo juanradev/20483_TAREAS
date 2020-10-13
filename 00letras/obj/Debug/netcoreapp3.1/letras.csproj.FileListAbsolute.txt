@@ -1,0 +1,26 @@
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\bin\Debug\netcoreapp3.1\letras.exe
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\bin\Debug\netcoreapp3.1\letras.deps.json
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\bin\Debug\netcoreapp3.1\letras.runtimeconfig.json
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\bin\Debug\netcoreapp3.1\letras.runtimeconfig.dev.json
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\bin\Debug\netcoreapp3.1\letras.dll
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\bin\Debug\netcoreapp3.1\letras.pdb
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\obj\Debug\netcoreapp3.1\letras.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\obj\Debug\netcoreapp3.1\letras.AssemblyInfoInputs.cache
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\obj\Debug\netcoreapp3.1\letras.AssemblyInfo.cs
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\obj\Debug\netcoreapp3.1\letras.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\obj\Debug\netcoreapp3.1\letras.dll
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\obj\Debug\netcoreapp3.1\letras.pdb
+D:\20_610\20483\20483_TAREAS\Nueva carpeta\obj\Debug\netcoreapp3.1\letras.genruntimeconfig.cache
+D:\20_610\20483\20483_TAREAS\00letras\bin\Debug\netcoreapp3.1\letras.exe
+D:\20_610\20483\20483_TAREAS\00letras\bin\Debug\netcoreapp3.1\letras.deps.json
+D:\20_610\20483\20483_TAREAS\00letras\bin\Debug\netcoreapp3.1\letras.runtimeconfig.json
+D:\20_610\20483\20483_TAREAS\00letras\bin\Debug\netcoreapp3.1\letras.runtimeconfig.dev.json
+D:\20_610\20483\20483_TAREAS\00letras\bin\Debug\netcoreapp3.1\letras.dll
+D:\20_610\20483\20483_TAREAS\00letras\bin\Debug\netcoreapp3.1\letras.pdb
+D:\20_610\20483\20483_TAREAS\00letras\obj\Debug\netcoreapp3.1\letras.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\00letras\obj\Debug\netcoreapp3.1\letras.AssemblyInfoInputs.cache
+D:\20_610\20483\20483_TAREAS\00letras\obj\Debug\netcoreapp3.1\letras.AssemblyInfo.cs
+D:\20_610\20483\20483_TAREAS\00letras\obj\Debug\netcoreapp3.1\letras.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\00letras\obj\Debug\netcoreapp3.1\letras.dll
+D:\20_610\20483\20483_TAREAS\00letras\obj\Debug\netcoreapp3.1\letras.pdb
+D:\20_610\20483\20483_TAREAS\00letras\obj\Debug\netcoreapp3.1\letras.genruntimeconfig.cache

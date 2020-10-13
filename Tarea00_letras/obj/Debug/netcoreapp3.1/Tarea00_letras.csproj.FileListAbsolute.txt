@@ -1,0 +1,4 @@
+D:\20_610\20483\20483_TAREAS\Tarea00_letras\obj\Debug\netcoreapp3.1\Tarea00_letras.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tarea00_letras\obj\Debug\netcoreapp3.1\Tarea00_letras.AssemblyInfoInputs.cache
+D:\20_610\20483\20483_TAREAS\Tarea00_letras\obj\Debug\netcoreapp3.1\Tarea00_letras.AssemblyInfo.cs
+D:\20_610\20483\20483_TAREAS\Tarea00_letras\obj\Debug\netcoreapp3.1\Tarea00_letras.csproj.CoreCompileInputs.cache

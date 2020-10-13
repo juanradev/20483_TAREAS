@@ -9,7 +9,7 @@ Tarea 00:  (13/10/2020)  Uso de Datos en C#  https://github.com/juanradev/20483_
 
 Tarea 00:  (13/10/2020)  Incorporación de lógica a las aplicaciones con C# https://github.com/juanradev/20483_TAREAS/tree/main/00logicaenc%23
 
-Tarea 00:  (13/10/2020)  Escritura de dos letras en C#  https://github.com/juanradev/20483_TAREAS/tree/main/Tarea00_letras
+Tarea 00:  (13/10/2020)  Escritura de dos letras en C#  https://github.com/juanradev/20483_TAREAS/tree/main/00letras
 
 
 
