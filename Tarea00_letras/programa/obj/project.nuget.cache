@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "zCCRuZ5yGf3/+8KcfPEQQqKdQVB/cYzXLY235Oyp3HOa7iOCNaSO5Fk5sGygKaZ6z+n/9R3IhzMD9QfSNtZ0KA==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\juan_\\source\\repos\\jemplowriteline\\jemplowriteline.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "zCCRuZ5yGf3/+8KcfPEQQqKdQVB/cYzXLY235Oyp3HOa7iOCNaSO5Fk5sGygKaZ6z+n/9R3IhzMD9QfSNtZ0KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juan_\\source\\repos\\jemplowriteline\\jemplowriteline.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 108a206a453ce0e16063ab50fba7601885ef47c1
 }
