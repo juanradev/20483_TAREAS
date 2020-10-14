@@ -1,0 +1,13 @@
+D:\20_610\20483\preguntas\resueltas\228\bin\Debug\netcoreapp3.1\228.exe
+D:\20_610\20483\preguntas\resueltas\228\bin\Debug\netcoreapp3.1\228.deps.json
+D:\20_610\20483\preguntas\resueltas\228\bin\Debug\netcoreapp3.1\228.runtimeconfig.json
+D:\20_610\20483\preguntas\resueltas\228\bin\Debug\netcoreapp3.1\228.runtimeconfig.dev.json
+D:\20_610\20483\preguntas\resueltas\228\bin\Debug\netcoreapp3.1\228.dll
+D:\20_610\20483\preguntas\resueltas\228\bin\Debug\netcoreapp3.1\228.pdb
+D:\20_610\20483\preguntas\resueltas\228\obj\Debug\netcoreapp3.1\228.csprojAssemblyReference.cache
+D:\20_610\20483\preguntas\resueltas\228\obj\Debug\netcoreapp3.1\228.AssemblyInfoInputs.cache
+D:\20_610\20483\preguntas\resueltas\228\obj\Debug\netcoreapp3.1\228.AssemblyInfo.cs
+D:\20_610\20483\preguntas\resueltas\228\obj\Debug\netcoreapp3.1\228.csproj.CoreCompileInputs.cache
+D:\20_610\20483\preguntas\resueltas\228\obj\Debug\netcoreapp3.1\228.dll
+D:\20_610\20483\preguntas\resueltas\228\obj\Debug\netcoreapp3.1\228.pdb
+D:\20_610\20483\preguntas\resueltas\228\obj\Debug\netcoreapp3.1\228.genruntimeconfig.cache

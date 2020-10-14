@@ -1,0 +1,13 @@
+D:\20_610\20483\preguntas\resueltas\170\bin\Debug\netcoreapp3.1\170.exe
+D:\20_610\20483\preguntas\resueltas\170\bin\Debug\netcoreapp3.1\170.deps.json
+D:\20_610\20483\preguntas\resueltas\170\bin\Debug\netcoreapp3.1\170.runtimeconfig.json
+D:\20_610\20483\preguntas\resueltas\170\bin\Debug\netcoreapp3.1\170.runtimeconfig.dev.json
+D:\20_610\20483\preguntas\resueltas\170\bin\Debug\netcoreapp3.1\170.dll
+D:\20_610\20483\preguntas\resueltas\170\bin\Debug\netcoreapp3.1\170.pdb
+D:\20_610\20483\preguntas\resueltas\170\obj\Debug\netcoreapp3.1\170.csprojAssemblyReference.cache
+D:\20_610\20483\preguntas\resueltas\170\obj\Debug\netcoreapp3.1\170.AssemblyInfoInputs.cache
+D:\20_610\20483\preguntas\resueltas\170\obj\Debug\netcoreapp3.1\170.AssemblyInfo.cs
+D:\20_610\20483\preguntas\resueltas\170\obj\Debug\netcoreapp3.1\170.csproj.CoreCompileInputs.cache
+D:\20_610\20483\preguntas\resueltas\170\obj\Debug\netcoreapp3.1\170.dll
+D:\20_610\20483\preguntas\resueltas\170\obj\Debug\netcoreapp3.1\170.pdb
+D:\20_610\20483\preguntas\resueltas\170\obj\Debug\netcoreapp3.1\170.genruntimeconfig.cache
