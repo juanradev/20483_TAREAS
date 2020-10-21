@@ -1,0 +1,13 @@
+D:\20_610\20483\preguntas\pendientes\20\obj\Debug\netcoreapp3.1\20.csprojAssemblyReference.cache
+D:\20_610\20483\preguntas\pendientes\20\obj\Debug\netcoreapp3.1\20.AssemblyInfoInputs.cache
+D:\20_610\20483\preguntas\pendientes\20\obj\Debug\netcoreapp3.1\20.AssemblyInfo.cs
+D:\20_610\20483\preguntas\pendientes\20\obj\Debug\netcoreapp3.1\20.csproj.CoreCompileInputs.cache
+D:\20_610\20483\preguntas\pendientes\20\bin\Debug\netcoreapp3.1\20.exe
+D:\20_610\20483\preguntas\pendientes\20\bin\Debug\netcoreapp3.1\20.deps.json
+D:\20_610\20483\preguntas\pendientes\20\bin\Debug\netcoreapp3.1\20.runtimeconfig.json
+D:\20_610\20483\preguntas\pendientes\20\bin\Debug\netcoreapp3.1\20.runtimeconfig.dev.json
+D:\20_610\20483\preguntas\pendientes\20\bin\Debug\netcoreapp3.1\20.dll
+D:\20_610\20483\preguntas\pendientes\20\bin\Debug\netcoreapp3.1\20.pdb
+D:\20_610\20483\preguntas\pendientes\20\obj\Debug\netcoreapp3.1\20.dll
+D:\20_610\20483\preguntas\pendientes\20\obj\Debug\netcoreapp3.1\20.pdb
+D:\20_610\20483\preguntas\pendientes\20\obj\Debug\netcoreapp3.1\20.genruntimeconfig.cache

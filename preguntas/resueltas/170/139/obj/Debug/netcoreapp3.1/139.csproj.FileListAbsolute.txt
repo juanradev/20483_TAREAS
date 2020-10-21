@@ -1,0 +1,13 @@
+D:\20_610\20483\preguntas\pendientes\139\bin\Debug\netcoreapp3.1\139.exe
+D:\20_610\20483\preguntas\pendientes\139\bin\Debug\netcoreapp3.1\139.deps.json
+D:\20_610\20483\preguntas\pendientes\139\bin\Debug\netcoreapp3.1\139.runtimeconfig.json
+D:\20_610\20483\preguntas\pendientes\139\bin\Debug\netcoreapp3.1\139.runtimeconfig.dev.json
+D:\20_610\20483\preguntas\pendientes\139\bin\Debug\netcoreapp3.1\139.dll
+D:\20_610\20483\preguntas\pendientes\139\bin\Debug\netcoreapp3.1\139.pdb
+D:\20_610\20483\preguntas\pendientes\139\obj\Debug\netcoreapp3.1\139.csprojAssemblyReference.cache
+D:\20_610\20483\preguntas\pendientes\139\obj\Debug\netcoreapp3.1\139.AssemblyInfoInputs.cache
+D:\20_610\20483\preguntas\pendientes\139\obj\Debug\netcoreapp3.1\139.AssemblyInfo.cs
+D:\20_610\20483\preguntas\pendientes\139\obj\Debug\netcoreapp3.1\139.csproj.CoreCompileInputs.cache
+D:\20_610\20483\preguntas\pendientes\139\obj\Debug\netcoreapp3.1\139.dll
+D:\20_610\20483\preguntas\pendientes\139\obj\Debug\netcoreapp3.1\139.pdb
+D:\20_610\20483\preguntas\pendientes\139\obj\Debug\netcoreapp3.1\139.genruntimeconfig.cache
