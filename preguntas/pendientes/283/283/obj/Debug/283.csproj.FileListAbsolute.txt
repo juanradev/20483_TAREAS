@@ -1,0 +1,6 @@
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\283_\283\bin\Debug\283.exe.config
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\283_\283\bin\Debug\283.exe
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\283_\283\bin\Debug\283.pdb
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\283_\283\obj\Debug\283.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\283_\283\obj\Debug\283.exe
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\283_\283\obj\Debug\283.pdb
