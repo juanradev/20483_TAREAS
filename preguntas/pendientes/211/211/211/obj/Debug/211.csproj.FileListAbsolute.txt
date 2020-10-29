@@ -1,7 +1,0 @@
-D:\20_610\20483\20483_TAREAS\preguntas\pendientes\211\211\211\bin\Debug\211.exe.config
-D:\20_610\20483\20483_TAREAS\preguntas\pendientes\211\211\211\bin\Debug\211.exe
-D:\20_610\20483\20483_TAREAS\preguntas\pendientes\211\211\211\bin\Debug\211.pdb
-D:\20_610\20483\20483_TAREAS\preguntas\pendientes\211\211\211\obj\Debug\211.csprojAssemblyReference.cache
-D:\20_610\20483\20483_TAREAS\preguntas\pendientes\211\211\211\obj\Debug\211.csproj.CoreCompileInputs.cache
-D:\20_610\20483\20483_TAREAS\preguntas\pendientes\211\211\211\obj\Debug\211.exe
-D:\20_610\20483\20483_TAREAS\preguntas\pendientes\211\211\211\obj\Debug\211.pdb

@@ -1,0 +1,13 @@
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\bin\Debug\netcoreapp3.1\83.exe
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\bin\Debug\netcoreapp3.1\83.deps.json
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\bin\Debug\netcoreapp3.1\83.runtimeconfig.json
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\bin\Debug\netcoreapp3.1\83.runtimeconfig.dev.json
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\bin\Debug\netcoreapp3.1\83.dll
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\bin\Debug\netcoreapp3.1\83.pdb
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\obj\Debug\netcoreapp3.1\83.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\obj\Debug\netcoreapp3.1\83.AssemblyInfoInputs.cache
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\obj\Debug\netcoreapp3.1\83.AssemblyInfo.cs
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\obj\Debug\netcoreapp3.1\83.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\obj\Debug\netcoreapp3.1\83.dll
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\obj\Debug\netcoreapp3.1\83.pdb
+D:\20_610\20483\20483_TAREAS\preguntas\pendientes\83\obj\Debug\netcoreapp3.1\83.genruntimeconfig.cache
