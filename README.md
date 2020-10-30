@@ -2,7 +2,10 @@
 
 Alumno: Juan Ramón Díaz Fernández
 
-Tarea XX   (OCTUBRE)   Preparación del Examen. Incluye mis preguntas y las de Laura y Rebeca. Las ire entregando conforme avancemos el temario https://github.com/juanradev/20483_TAREAS/tree/main/preguntas
+Tarea XX   (OCTUBRE)   Preparación del Examen. Incluye mis preguntas y las de Laura y Rebeca.  
+Las ire entregando conforme avancemos el temario https://github.com/juanradev/20483_TAREAS/tree/main/preguntas/resueltas
+
+
 
 Tarea 02:  (20/10/2020)  Módulos 3 y 4 (20483) https://github.com/juanradev/20483_TAREAS/tree/main/Tareas02
 
