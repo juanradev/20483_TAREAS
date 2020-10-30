@@ -1,0 +1,13 @@
+D:\20_610\20483\pendientes\68\bin\Debug\netcoreapp3.1\68.exe
+D:\20_610\20483\pendientes\68\bin\Debug\netcoreapp3.1\68.deps.json
+D:\20_610\20483\pendientes\68\bin\Debug\netcoreapp3.1\68.runtimeconfig.json
+D:\20_610\20483\pendientes\68\bin\Debug\netcoreapp3.1\68.runtimeconfig.dev.json
+D:\20_610\20483\pendientes\68\bin\Debug\netcoreapp3.1\68.dll
+D:\20_610\20483\pendientes\68\bin\Debug\netcoreapp3.1\68.pdb
+D:\20_610\20483\pendientes\68\obj\Debug\netcoreapp3.1\68.csprojAssemblyReference.cache
+D:\20_610\20483\pendientes\68\obj\Debug\netcoreapp3.1\68.AssemblyInfoInputs.cache
+D:\20_610\20483\pendientes\68\obj\Debug\netcoreapp3.1\68.AssemblyInfo.cs
+D:\20_610\20483\pendientes\68\obj\Debug\netcoreapp3.1\68.csproj.CoreCompileInputs.cache
+D:\20_610\20483\pendientes\68\obj\Debug\netcoreapp3.1\68.dll
+D:\20_610\20483\pendientes\68\obj\Debug\netcoreapp3.1\68.pdb
+D:\20_610\20483\pendientes\68\obj\Debug\netcoreapp3.1\68.genruntimeconfig.cache
