@@ -18,7 +18,12 @@
 | [19](./10/)  | sintaxis switch/case |
 | 20 | LINQ | select sobre string[]
 | 44 | metodos acceso | private solo a la clase
-| 50 | XmlSerializer | Ojo no hemos dado este objeto , se trata de los decoradores [] de la clase a serializar. Esta pregunta se puede sacar por lógica   
+| 50 | XmlSerializer | Ojo no hemos dado este objeto , se trata de los decoradores [] de la clase a serializar. Esta pregunta se puede sacar por lógica
+
+
+
+| N. | Question | Observacion
+| :--- | --- | :---: 
 | 61 | casting | int = (int)(float)   
 | 68 | DataContractJsonSerializer | utilizando un MemoryStream   
 | 73 | StringBuilder | alguna duda conceptual...    
