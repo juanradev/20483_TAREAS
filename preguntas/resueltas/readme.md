@@ -5,13 +5,15 @@
 
 
 
-| Nº | Question | Observacion
-| :--- | :--- | : ---
-| [10](./10/) | as tipo vs (tipo) |  . as si falla no genera excepcion devuelve null.   as no es valido para int
+| N. | Question | Observacion
+| :--- | --- | :---:
+| [10](./10/) | as tipo vs (tipo) | . as si falla no genera excepcion devuelve null.   as no es valido para int
 
 
 
 
+| pregunta | Descripción | Enlace | Observacion
+| :--- | --- | :---: | ---
 
 | [19](./10/)  | sintaxis switch/case |
 | 20 | LINQ | select sobre string[]
