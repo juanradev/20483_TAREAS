@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Order OrderID="26">
+  <Customer>Ben Smith</Customer>
+  <CustomerID>206</CustomerID>
+  <OrderDate>1970-06-11T00:00:00</OrderDate>
+  <OrderDate_TimeOffset>11/03/2020 12:16:00.770+01:00</OrderDate_TimeOffset>
+</Order>

@@ -17,7 +17,8 @@
 | [95](./95/) | (int) | similar a 84    
 | [144](./144/) | eventos | al final esta la forma de declarar y utilizar eventos / delegados    
 | [168](./168/) | casting |    
-| [169](./169/) | #if DEBUG | directivas de compilacion    
+| [169](./169/) | #if DEBUG | directivas de compilacion 
+| [167](./167)  | DataContractSerializer / XMLSerializer. DataMember , XMlAttribute, Datimeoffset 
 | [170](./170/) | sintaxis switch/case |    
 | [173](./173/) | interfaces | clase que implementa dos interfaces y que tienen un metodo con el mismo nombre  
 | [176](./176/) | excepcciones order de | DivideByZeroException  ArithmeticException    
