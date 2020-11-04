@@ -1,0 +1,6 @@
+<Order xmlns="http://schemas.datacontract.org/2004/07/_167_b" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<Customer>Ben Smith</Customer>
+<CustomerID>206</CustomerID>
+<OrderDate>2020-11-03T10:53:09.0238611+01:00</OrderDate>
+<OrderID>42</OrderID>
+</Order>

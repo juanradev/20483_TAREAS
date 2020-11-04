@@ -1,0 +1,17 @@
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\bin\Debug\FourthCoffee.ExceptionLogger.exe.config
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\bin\Debug\FourthCoffee.ExceptionLogger.exe
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\bin\Debug\FourthCoffee.ExceptionLogger.pdb
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\bin\Debug\Newtonsoft.Json.dll
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\bin\Debug\Newtonsoft.Json.xml
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\MainWindow.baml
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\MainWindow.g.cs
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\App.g.cs
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger_MarkupCompile.cache
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.g.resources
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.Properties.Resources.resources
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.csproj.GenerateResource.cache
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.csproj.CopyComplete
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.exe
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.pdb

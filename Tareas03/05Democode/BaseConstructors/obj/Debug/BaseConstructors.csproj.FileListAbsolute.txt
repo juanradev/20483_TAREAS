@@ -1,0 +1,7 @@
+D:\20_610\20483\20483_TAREAS\Tareas03\05 Democode\BaseConstructors\bin\Debug\BaseConstructors.exe.config
+D:\20_610\20483\20483_TAREAS\Tareas03\05 Democode\BaseConstructors\bin\Debug\BaseConstructors.exe
+D:\20_610\20483\20483_TAREAS\Tareas03\05 Democode\BaseConstructors\bin\Debug\BaseConstructors.pdb
+D:\20_610\20483\20483_TAREAS\Tareas03\05 Democode\BaseConstructors\obj\Debug\BaseConstructors.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tareas03\05 Democode\BaseConstructors\obj\Debug\BaseConstructors.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tareas03\05 Democode\BaseConstructors\obj\Debug\BaseConstructors.exe
+D:\20_610\20483\20483_TAREAS\Tareas03\05 Democode\BaseConstructors\obj\Debug\BaseConstructors.pdb

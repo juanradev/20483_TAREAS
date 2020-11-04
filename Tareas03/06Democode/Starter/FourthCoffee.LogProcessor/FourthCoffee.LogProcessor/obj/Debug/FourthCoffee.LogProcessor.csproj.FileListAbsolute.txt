@@ -1,0 +1,14 @@
+D:\3- 20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\bin\Debug\FourthCoffee.LogProcessor.exe.config
+D:\3- 20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\bin\Debug\FourthCoffee.LogProcessor.exe
+D:\3- 20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\bin\Debug\FourthCoffee.LogProcessor.pdb
+D:\3- 20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.csprojAssemblyReference.cache
+D:\3- 20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.csproj.CoreCompileInputs.cache
+D:\3- 20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.exe
+D:\3- 20483\Allfiles\Mod06\Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.pdb
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\bin\Debug\FourthCoffee.LogProcessor.exe.config
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\bin\Debug\FourthCoffee.LogProcessor.exe
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\bin\Debug\FourthCoffee.LogProcessor.pdb
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.exe
+D:\20_610\20483\20483_TAREAS\Tareas03\06Democode\Starter\FourthCoffee.LogProcessor\FourthCoffee.LogProcessor\obj\Debug\FourthCoffee.LogProcessor.pdb

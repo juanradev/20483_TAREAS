@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Order>
+  <OrderID>42</OrderID>
+  <CustomerName>Ben Smith</CustomerName>
+  <CustomerID>206</CustomerID>
+  <OrderDate>2020-11-03T10:53:08.6194018+01:00</OrderDate>
+</Order>

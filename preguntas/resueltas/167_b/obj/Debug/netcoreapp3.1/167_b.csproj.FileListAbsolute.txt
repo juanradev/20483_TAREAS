@@ -1,0 +1,13 @@
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\obj\Debug\netcoreapp3.1\167_b.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\obj\Debug\netcoreapp3.1\167_b.AssemblyInfoInputs.cache
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\obj\Debug\netcoreapp3.1\167_b.AssemblyInfo.cs
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\obj\Debug\netcoreapp3.1\167_b.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\bin\Debug\netcoreapp3.1\167_b.exe
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\bin\Debug\netcoreapp3.1\167_b.deps.json
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\bin\Debug\netcoreapp3.1\167_b.runtimeconfig.json
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\bin\Debug\netcoreapp3.1\167_b.runtimeconfig.dev.json
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\bin\Debug\netcoreapp3.1\167_b.dll
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\bin\Debug\netcoreapp3.1\167_b.pdb
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\obj\Debug\netcoreapp3.1\167_b.dll
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\obj\Debug\netcoreapp3.1\167_b.pdb
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\167_b\obj\Debug\netcoreapp3.1\167_b.genruntimeconfig.cache
