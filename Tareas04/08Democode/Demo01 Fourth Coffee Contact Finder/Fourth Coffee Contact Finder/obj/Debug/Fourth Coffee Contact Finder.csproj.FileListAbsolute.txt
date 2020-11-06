@@ -1,0 +1,17 @@
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\bin\Debug\Fourth Coffee Contact Finder.exe.config
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\bin\Debug\Fourth Coffee Contact Finder.exe
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\bin\Debug\Fourth Coffee Contact Finder.pdb
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\bin\Debug\FourthCoffee.Infrastructure.dll
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\bin\Debug\FourthCoffee.Infrastructure.pdb
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\Fourth Coffee Contact Finder.csprojAssemblyReference.cache
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\MainWindow.baml
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\MainWindow.g.cs
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\App.g.cs
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\Fourth Coffee Contact Finder_MarkupCompile.cache
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\Fourth Coffee Contact Finder.g.resources
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\Fourth_Coffee_Contact_Finder.Properties.Resources.resources
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\Fourth Coffee Contact Finder.csproj.GenerateResource.cache
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\Fourth Coffee Contact Finder.csproj.CoreCompileInputs.cache
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\Fourth Coffee Contact Finder.csproj.CopyComplete
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\Fourth Coffee Contact Finder.exe
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\Fourth Coffee Contact Finder\obj\Debug\Fourth Coffee Contact Finder.pdb

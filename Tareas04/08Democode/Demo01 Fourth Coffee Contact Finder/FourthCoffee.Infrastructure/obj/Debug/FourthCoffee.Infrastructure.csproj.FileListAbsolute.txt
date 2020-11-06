@@ -1,0 +1,6 @@
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\bin\Debug\FourthCoffee.Infrastructure.dll
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\bin\Debug\FourthCoffee.Infrastructure.pdb
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.csprojAssemblyReference.cache
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.csproj.CoreCompileInputs.cache
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.dll
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.pdb

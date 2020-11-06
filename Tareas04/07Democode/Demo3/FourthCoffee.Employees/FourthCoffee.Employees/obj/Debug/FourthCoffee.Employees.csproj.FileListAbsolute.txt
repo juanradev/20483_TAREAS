@@ -1,0 +1,12 @@
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.exe.config
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.exe
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.pdb
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.dll
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.SqlServer.dll
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.xml
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.SqlServer.xml
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.CopyComplete
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.exe
+D:\20_610\20483\20483_TAREAS\Tarea04\07Democode\Demo3\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.pdb

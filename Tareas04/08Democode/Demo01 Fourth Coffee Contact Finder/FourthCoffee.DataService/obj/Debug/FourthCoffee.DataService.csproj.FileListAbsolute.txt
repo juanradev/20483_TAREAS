@@ -1,0 +1,10 @@
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\bin\FourthCoffee.DataService.dll.config
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\bin\FourthCoffee.DataService.dll
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\bin\FourthCoffee.DataService.pdb
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\bin\FourthCoffee.Infrastructure.dll
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\bin\FourthCoffee.Infrastructure.pdb
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\obj\Debug\FourthCoffee.DataService.csprojAssemblyReference.cache
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\obj\Debug\FourthCoffee.DataService.csproj.CoreCompileInputs.cache
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\obj\Debug\FourthCoffee.DataService.csproj.CopyComplete
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\obj\Debug\FourthCoffee.DataService.dll
+D:\3- 20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\obj\Debug\FourthCoffee.DataService.pdb
