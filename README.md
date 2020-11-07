@@ -8,7 +8,7 @@ Las ire entregando conforme avancemos el temario https://github.com/juanradev/20
 
 Tarea 04:  (06/11/2020)  Módulos 7 y 8 (20483) Solo Demos Pendientes Labs. https://github.com/juanradev/20483_TAREAS/tree/main/Tareas04
 
-Tarea 03:  (05/11/2020)  Módulos 5 y 6 (20483) Solo Demos Pendientes Labs. https://github.com/juanradev/20483_TAREAS/tree/main/Tareas03
+Tarea 03:  (05-07/11/2020)  Módulos 5 y 6 (20483) https://github.com/juanradev/20483_TAREAS/tree/main/Tareas03
 
 Tarea 02:  (20/10/2020)  Módulos 3 y 4 (20483) https://github.com/juanradev/20483_TAREAS/tree/main/Tareas02
 
