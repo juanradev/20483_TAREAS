@@ -1,0 +1,9 @@
+D:\20_610\20483\20483_TAREAS\Tareas04\lab08\Starter\Exercise 3\Grades.DataModel\bin\Debug\Grades.DataModel.dll.config
+D:\20_610\20483\20483_TAREAS\Tareas04\lab08\Starter\Exercise 3\Grades.DataModel\bin\Debug\Grades.DataModel.dll
+D:\20_610\20483\20483_TAREAS\Tareas04\lab08\Starter\Exercise 3\Grades.DataModel\bin\Debug\Grades.DataModel.pdb
+D:\20_610\20483\20483_TAREAS\Tareas04\lab08\Starter\Exercise 3\Grades.DataModel\bin\Debug\EntityFramework.dll
+D:\20_610\20483\20483_TAREAS\Tareas04\lab08\Starter\Exercise 3\Grades.DataModel\bin\Debug\EntityFramework.xml
+D:\20_610\20483\20483_TAREAS\Tareas04\lab08\Starter\Exercise 3\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tareas04\lab08\Starter\Exercise 3\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CopyComplete
+D:\20_610\20483\20483_TAREAS\Tareas04\lab08\Starter\Exercise 3\Grades.DataModel\obj\Debug\Grades.DataModel.dll
+D:\20_610\20483\20483_TAREAS\Tareas04\lab08\Starter\Exercise 3\Grades.DataModel\obj\Debug\Grades.DataModel.pdb
