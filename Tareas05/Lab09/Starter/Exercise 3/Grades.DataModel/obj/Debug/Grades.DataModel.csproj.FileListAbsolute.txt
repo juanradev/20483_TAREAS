@@ -1,0 +1,14 @@
+D:\3- 20483\Allfiles\Mod09\Labfiles\Solution\Exercise 3\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+D:\3- 20483\Allfiles\Mod09\Labfiles\Solution\Exercise 3\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+D:\3- 20483\Allfiles\Mod09\Labfiles\Solution\Exercise 3\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+D:\3- 20483\Allfiles\Mod09\Labfiles\Solution\Exercise 3\Grades.DataModel\obj\Debug\Grades.DataModel.csprojAssemblyReference.cache
+D:\3- 20483\Allfiles\Mod09\Labfiles\Solution\Exercise 3\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+D:\3- 20483\Allfiles\Mod09\Labfiles\Solution\Exercise 3\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+D:\3- 20483\Allfiles\Mod09\Labfiles\Solution\Exercise 3\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb
+D:\20_610\20483\20483_TAREAS\Tareas05\Lab09\Starter\Exercise 3\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+D:\20_610\20483\20483_TAREAS\Tareas05\Lab09\Starter\Exercise 3\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+D:\20_610\20483\20483_TAREAS\Tareas05\Lab09\Starter\Exercise 3\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+D:\20_610\20483\20483_TAREAS\Tareas05\Lab09\Starter\Exercise 3\Grades.DataModel\obj\Debug\Grades.DataModel.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Lab09\Starter\Exercise 3\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Lab09\Starter\Exercise 3\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+D:\20_610\20483\20483_TAREAS\Tareas05\Lab09\Starter\Exercise 3\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb

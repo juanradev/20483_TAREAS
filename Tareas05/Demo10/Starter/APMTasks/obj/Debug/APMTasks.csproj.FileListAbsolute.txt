@@ -1,0 +1,14 @@
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\bin\Debug\APMTasks.exe.config
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\bin\Debug\APMTasks.exe
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\bin\Debug\APMTasks.pdb
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\obj\Debug\APMTasks.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\obj\Debug\MainWindow.baml
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\obj\Debug\MainWindow.g.cs
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\obj\Debug\App.g.cs
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\obj\Debug\APMTasks_MarkupCompile.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\obj\Debug\APMTasks.g.resources
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\obj\Debug\APMTasks.Properties.Resources.resources
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\obj\Debug\APMTasks.csproj.GenerateResource.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\obj\Debug\APMTasks.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\obj\Debug\APMTasks.exe
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\APMTasks\obj\Debug\APMTasks.pdb

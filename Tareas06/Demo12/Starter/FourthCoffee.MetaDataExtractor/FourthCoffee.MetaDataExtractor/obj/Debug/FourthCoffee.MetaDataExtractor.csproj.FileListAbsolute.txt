@@ -1,0 +1,17 @@
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\bin\Debug\FourthCoffee.MetaDataExtractor.exe.config
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\bin\Debug\FourthCoffee.MetaDataExtractor.exe
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\bin\Debug\FourthCoffee.MetaDataExtractor.pdb
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\bin\Debug\FourthCoffee.Core.dll
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\bin\Debug\FourthCoffee.Core.pdb
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\MainWindow.baml
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\MainWindow.g.cs
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\App.g.cs
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor_MarkupCompile.cache
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.g.resources
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.Properties.Resources.resources
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.csproj.GenerateResource.cache
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.csproj.CopyComplete
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.exe
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.pdb

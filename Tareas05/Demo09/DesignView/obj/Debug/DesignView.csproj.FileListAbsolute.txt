@@ -1,0 +1,15 @@
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\bin\Debug\DesignView.exe.config
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\bin\Debug\DesignView.exe
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\bin\Debug\DesignView.pdb
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\DesignView.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\MainWindow.g.cs
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\App.g.cs
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\DesignView_MarkupCompile.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\DesignView_MarkupCompile.lref
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\MainWindow.baml
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\DesignView.g.resources
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\DesignView.Properties.Resources.resources
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\DesignView.csproj.GenerateResource.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\DesignView.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\DesignView.exe
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo09\DesignView\obj\Debug\DesignView.pdb

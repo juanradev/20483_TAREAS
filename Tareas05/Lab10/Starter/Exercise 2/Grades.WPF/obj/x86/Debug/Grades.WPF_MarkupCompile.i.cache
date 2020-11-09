@@ -1,0 +1,20 @@
+﻿Grades.WPF
+
+
+winexe
+C#
+.cs
+D:\20_610\20483\20483_TAREAS\Tareas05\Lab10\Starter\Exercise 2\Grades.WPF\obj\x86\Debug\
+Grades.WPF
+none
+false
+DEBUG;TRACE
+D:\20_610\20483\20483_TAREAS\Tareas05\Lab10\Starter\Exercise 2\Grades.WPF\App.xaml
+11-1077331355
+
+23-740528020
+21-1919594273
+Controls\AddGradeDialog.xaml;Controls\AddStudentDialog.xaml;Controls\BusyIndicator.xaml;Controls\GrungeButton.xaml;Controls\StudentPhoto.xaml;Controls\SubjectList.xaml;MainWindow.xaml;Themes\Generic.xaml;Views\LogonPage.xaml;Views\StudentProfile.xaml;Views\StudentsPage.xaml;
+
+True
+

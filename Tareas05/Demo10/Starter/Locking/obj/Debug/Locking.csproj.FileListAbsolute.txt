@@ -1,0 +1,7 @@
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\Locking\bin\Debug\Locking.exe.config
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\Locking\bin\Debug\Locking.exe
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\Locking\bin\Debug\Locking.pdb
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\Locking\obj\Debug\Locking.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\Locking\obj\Debug\Locking.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\Locking\obj\Debug\Locking.exe
+D:\20_610\20483\20483_TAREAS\Tareas05\Demo10\Starter\Locking\obj\Debug\Locking.pdb

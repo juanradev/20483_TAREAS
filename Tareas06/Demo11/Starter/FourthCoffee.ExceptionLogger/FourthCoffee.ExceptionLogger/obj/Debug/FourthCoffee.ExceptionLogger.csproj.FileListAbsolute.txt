@@ -1,0 +1,10 @@
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo11\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo11\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.csproj.ResolveComReference.cache
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo11\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\MainWindow.baml
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo11\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\MainWindow.g.cs
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo11\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\App.g.cs
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo11\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger_MarkupCompile.cache
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo11\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.g.resources
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo11\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.Properties.Resources.resources
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo11\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.csproj.GenerateResource.cache
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo11\Starter\FourthCoffee.ExceptionLogger\FourthCoffee.ExceptionLogger\obj\Debug\FourthCoffee.ExceptionLogger.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+D:\3- 20483\Allfiles\Mod10\Labfiles\Solution\Exercise 2\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+D:\3- 20483\Allfiles\Mod10\Labfiles\Solution\Exercise 2\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+D:\3- 20483\Allfiles\Mod10\Labfiles\Solution\Exercise 2\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+D:\3- 20483\Allfiles\Mod10\Labfiles\Solution\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csprojAssemblyReference.cache
+D:\3- 20483\Allfiles\Mod10\Labfiles\Solution\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+D:\3- 20483\Allfiles\Mod10\Labfiles\Solution\Exercise 2\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+D:\3- 20483\Allfiles\Mod10\Labfiles\Solution\Exercise 2\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb
