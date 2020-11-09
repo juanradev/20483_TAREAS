@@ -6,6 +6,8 @@ Tarea XX   (OCTUBRE)   Preparación del Examen. Incluye mis preguntas y las de L
 Las ire entregando conforme avancemos el temario https://github.com/juanradev/20483_TAREAS/tree/main/preguntas/resueltas
 
 
+Tarea 05:  (09/11/2020)  Módulos 9 y 10 (20483)  https://github.com/juanradev/20483_TAREAS/tree/main/Tareas05
+
 Tarea 04:  (06-8/11/2020)  Módulos 7 y 8 (20483)  https://github.com/juanradev/20483_TAREAS/tree/main/Tareas04
 
 Tarea 03:  (05-07/11/2020)  Módulos 5 y 6 (20483) https://github.com/juanradev/20483_TAREAS/tree/main/Tareas03
