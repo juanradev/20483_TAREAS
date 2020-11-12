@@ -1,0 +1,16 @@
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\School-Reports.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\bin\Debug\School.exe.config
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\bin\Debug\School.exe
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\bin\Debug\School.pdb
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\School-Reports.csproj.ResolveComReference.cache
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\MainWindow.g.cs
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\App.g.cs
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\School_MarkupCompile.cache
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\School_MarkupCompile.lref
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\MainWindow.baml
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\School.g.resources
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\School.Properties.Resources.resources
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\School-Reports.csproj.GenerateResource.cache
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\School-Reports.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\School.exe
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 2\School-Reports\obj\Debug\School.pdb

@@ -1,0 +1,14 @@
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\bin\Debug\FourthCoffee.MessageSafe.exe.config
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\bin\Debug\FourthCoffee.MessageSafe.exe
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\bin\Debug\FourthCoffee.MessageSafe.pdb
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\obj\Debug\FourthCoffee.MessageSafe.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\obj\Debug\MainWindow.baml
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\obj\Debug\MainWindow.g.cs
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\obj\Debug\App.g.cs
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\obj\Debug\FourthCoffee.MessageSafe_MarkupCompile.cache
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\obj\Debug\FourthCoffee.MessageSafe.g.resources
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\obj\Debug\FourthCoffee.MessageSafe.Properties.Resources.resources
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\obj\Debug\FourthCoffee.MessageSafe.csproj.GenerateResource.cache
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\obj\Debug\FourthCoffee.MessageSafe.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\obj\Debug\FourthCoffee.MessageSafe.exe
+D:\20_610\20483\20483_TAREAS\Tarea07\Democode\FourthCoffee.MessageSafe\FourthCoffee.MessageSafe\obj\Debug\FourthCoffee.MessageSafe.pdb

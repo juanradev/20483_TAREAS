@@ -276,11 +276,20 @@ namespace FourthCoffee.Core
 
 #### Demostración: firma e instalación de un ensamblado en el GAC
 
-Pendiente de ver la teoria....
 
 
+firmar
 
 
+sn -k  
+![sn_k.PNG](./firma1.PNG)
+
+
+gacutil -i
+![gacutil-i.PNG](./firma2.PNG)
+
+verifyGacInstall  
+![verifyGacInstall.PNG](./firma3.PNG)
 
 
 

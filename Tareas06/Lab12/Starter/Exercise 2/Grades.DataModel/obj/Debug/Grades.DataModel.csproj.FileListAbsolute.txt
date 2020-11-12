@@ -1,0 +1,7 @@
+D:\20_610\20483\20483_TAREAS\Tareas06\Lab12\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+D:\20_610\20483\20483_TAREAS\Tareas06\Lab12\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+D:\20_610\20483\20483_TAREAS\Tareas06\Lab12\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+D:\20_610\20483\20483_TAREAS\Tareas06\Lab12\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tareas06\Lab12\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tareas06\Lab12\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+D:\20_610\20483\20483_TAREAS\Tareas06\Lab12\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb

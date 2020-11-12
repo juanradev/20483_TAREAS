@@ -241,7 +241,7 @@ namespace Grades.WPF
         {
             try
             {
-                // Use a SaveFileDiaolog to prompt the user for a filename to save the report as (must be a Word document)
+                // Use a SaveFileDialog to prompt the user for a filename to save the report as (must be a Word document)
                 SaveFileDialog dialog = new SaveFileDialog();
                 dialog.Filter = "Word documents|*.docx";
 
@@ -257,7 +257,7 @@ namespace Grades.WPF
                 {
                     try
                     {
-                        // Generate the report by using a seperate task
+                        // Generate the report by using a separate task
                         Task.Run(() => GenerateStudentReport(SessionContext.CurrentStudent, dialog.FileName));
                     }
                     catch (Exception ex)
@@ -527,10 +527,15 @@ namespace Grades.WPF
                 // Output the details of each grade for the student
                 foreach (var grade in SessionContext.CurrentGrades)
                 {
-                    // TODO: Exercise 2: Task 2a: Use the IncludeProcessor to determine which fields in the Grade object are tagged
+                    // Use the IncludeProcessor to determine which fields in the Grade object are tagged
+                    List<FormatField> itemsToReport = IncludeProcessor.GetItemsToInclude(grade);
 
-                    // TODO: Exercise 2: Task 2b: Output each tagged item, using the format specified by the properties of the IncludeInReport attribute for each item
-
+                    // Output each tagged item, using the format specified by the properties of the IncludeInReport attribute for each item
+                    foreach (FormatField item in itemsToReport)
+                    {
+                        wrapper.AppendText(item.Label == string.Empty ? item.Value : item.Label + ": " + item.Value, item.IsBold, item.IsUnderlined);
+                        wrapper.InsertCarriageReturn();                       
+                    }
                     wrapper.InsertCarriageReturn();
                 }
 

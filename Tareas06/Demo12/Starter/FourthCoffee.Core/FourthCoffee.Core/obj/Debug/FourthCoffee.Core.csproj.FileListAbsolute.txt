@@ -1,0 +1,5 @@
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.Core\FourthCoffee.Core\bin\Debug\FourthCoffee.Core.dll
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.Core\FourthCoffee.Core\bin\Debug\FourthCoffee.Core.pdb
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.Core\FourthCoffee.Core\obj\Debug\FourthCoffee.Core.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.Core\FourthCoffee.Core\obj\Debug\FourthCoffee.Core.dll
+D:\20_610\20483\20483_TAREAS\Tareas06\Demo12\Starter\FourthCoffee.Core\FourthCoffee.Core\obj\Debug\FourthCoffee.Core.pdb

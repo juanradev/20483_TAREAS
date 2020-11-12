@@ -4,13 +4,13 @@
 
 
 ````
-1. Delración del dynamic object
+1. declaración del dynamic object
 
 using Microsoft.Office.Inerop.Word;
 ......
 
 dynamic word = new Appliation(); 
-// variables de tupo object  
+// variables de tipo object  
 // No soportan type checking en tiempo de compilación ni proporcionan IntelliSense  
 
 
@@ -30,7 +30,7 @@ dynamic word = new Application();
 dynamic doc = word.Documents.Add();
 doc.Activate();
 ````
-`
+![demo1](./demo1.PNG)
 
 
 
@@ -43,5 +43,12 @@ doc.Activate();
 #### Demonstration: Upgrading the Grades Report Lab
 
 
-![insepeccion1](./insepeccion1.PNG)
+(laboratorio)
+
+
+
+![demo2](./demo2.PNG)
+
+
+![demo3](./demo3.PNG)
 

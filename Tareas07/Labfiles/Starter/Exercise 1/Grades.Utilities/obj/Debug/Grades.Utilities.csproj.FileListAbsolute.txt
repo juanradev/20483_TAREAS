@@ -1,0 +1,6 @@
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.dll
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.pdb
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.dll
+D:\20_610\20483\20483_TAREAS\Tarea07\Labfiles\Solution\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.pdb
