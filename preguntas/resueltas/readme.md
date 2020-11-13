@@ -29,7 +29,8 @@
 | [177](./177/) | sobrecarga de metodos parametros nullable | posible errata    
 | [228](./228/) | TryParse |    
 | [252](./252/) | Array foreach | ojo que tiene trampa    
-| [253](./253/) | herencia |  posible erratillas en el código    
+| [253](./253/) | herencia |  posible erratillas en el código   
+| [255](./255/) | Metodos de extension |  (metodo estatico publico  parametro this Clase  llamada Clase.metodo())
 | [257](./257/) | Operadores de incremento/decremento/comparación (comparación perezosa) | ojo hay que entenderlo y es Errata    
 | [283](./283/) | Sintaxis DEBUG/TRACE/ASSERT |     
 
