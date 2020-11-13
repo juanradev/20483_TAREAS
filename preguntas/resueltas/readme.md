@@ -21,6 +21,7 @@
 | [169](./169/) | #if DEBUG | directivas de compilacion 
 | [167](./167)  | DataContractSerializer / XMLSerializer. DataMember , XMlAttribute, Datimeoffset 
 | [170](./170/) | sintaxis switch/case |    
+| [172](./172/) | Hash  OJO __ES UNA ERRATA__|  
 | [173](./173/) | interfaces | clase que implementa dos interfaces y que tienen un metodo con el mismo nombre  
 | [174](./174/) | ThrowIfCancellationRequested |   
 | [176](./176/) | excepcciones order de | DivideByZeroException  ArithmeticException    

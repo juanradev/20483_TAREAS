@@ -1,0 +1,8 @@
+D:\20_610\20483\pendientes\172\ConsoleApp172\bin\Debug\ConsoleApp172.exe.config
+D:\20_610\20483\pendientes\172\ConsoleApp172\bin\Debug\ConsoleApp172.exe
+D:\20_610\20483\pendientes\172\ConsoleApp172\bin\Debug\ConsoleApp172.pdb
+D:\20_610\20483\pendientes\172\ConsoleApp172\obj\Debug\ConsoleApp172.csprojAssemblyReference.cache
+D:\20_610\20483\pendientes\172\ConsoleApp172\obj\Debug\ConsoleApp172.csproj.CoreCompileInputs.cache
+D:\20_610\20483\pendientes\172\ConsoleApp172\obj\Debug\ConsoleApp172.exe
+D:\20_610\20483\pendientes\172\ConsoleApp172\obj\Debug\ConsoleApp172.pdb
+D:\20_610\20483\pendientes\172\ConsoleApp172\bin\Debug\fichero.txt
