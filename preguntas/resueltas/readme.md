@@ -25,6 +25,7 @@
 | [172](./172/) | Hash  OJO __ES UNA ERRATA__|  
 | [173](./173/) | interfaces | clase que implementa dos interfaces y que tienen un metodo con el mismo nombre  
 | [174](./174/) | ThrowIfCancellationRequested |   
+| [175](./175/) | FileNotFoundException / __Console.SetOut()__ / StreamWriter / StreamReader |   
 | [176](./176/) | excepcciones order de | DivideByZeroException  ArithmeticException    
 | [177](./177/) | sobrecarga de metodos parametros nullable | posible errata    
 | [228](./228/) | TryParse |    
