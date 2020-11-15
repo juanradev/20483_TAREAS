@@ -30,7 +30,8 @@
 | [176](./176/) | excepcciones order de | DivideByZeroException  ArithmeticException    
 | [177](./177/) | sobrecarga de metodos parametros nullable | posible errata    
 | [194](./194/) | Dictionary<TKey,TValue> Dictionary.ContainsKey Dictionary.Add  |     
-| [228](./228/) | TryParse |    
+| [228](./228/) | TryParse |  
+| [122375](./237/) | DataContractJsonSerializer | ReadObject : deserializar WriteObject: serializar  
 | [252](./252/) | Array foreach | ojo que tiene trampa    
 | [253](./253/) | herencia |  posible erratillas en el código   
 | [255](./255/) | Metodos de extension |  (metodo estatico publico  parametro this Clase  llamada Clase.metodo())
