@@ -28,6 +28,7 @@
 | [175](./175/) | FileNotFoundException / __Console.SetOut()__ / StreamWriter / StreamReader |   
 | [176](./176/) | excepcciones order de | DivideByZeroException  ArithmeticException    
 | [177](./177/) | sobrecarga de metodos parametros nullable | posible errata    
+| [194](./194/) | Dictionary<TKey,TValue> Dictionary.ContainsKey Dictionary.Add  |     
 | [228](./228/) | TryParse |    
 | [252](./252/) | Array foreach | ojo que tiene trampa    
 | [253](./253/) | herencia |  posible erratillas en el código   
