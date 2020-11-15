@@ -16,9 +16,10 @@
 | [83](./83/) | public prorty vs public static property |      
 | [84](./84/) |  Convert.ToInt32 | similar a 95    
 | [95](./95/) | (int) | similar a 84    
-| [121](./121/) | Expresión regular List MatchCollection |     
+| [121](./121/) | Expresión regular List MatchCollection |  igual que la 161   
 | [125](./125/) | DataContractJsonSerializer | ReadObject : deserializar WriteObject: serializar
 | [144](./144/) | eventos | al final esta la forma de declarar y utilizar eventos / delegados  
+| [161](./161/) | Expresión regular List MatchCollection |   igual que la 121
 | [162](./162/) | hash  |  HashAlgorithm Teoria
 | [168](./168/) | casting |    
 | [169](./169/) | #if DEBUG | directivas de compilacion 
