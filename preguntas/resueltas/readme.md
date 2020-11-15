@@ -16,6 +16,7 @@
 | [83](./83/) | public prorty vs public static property |      
 | [84](./84/) |  Convert.ToInt32 | similar a 95    
 | [95](./95/) | (int) | similar a 84    
+| [121](./121/) | Expresión regular List MatchCollection |     
 | [125](./125/) | DataContractJsonSerializer | ReadObject : deserializar WriteObject: serializar
 | [144](./144/) | eventos | al final esta la forma de declarar y utilizar eventos / delegados  
 | [162](./162/) | hash  |  HashAlgorithm Teoria
@@ -31,7 +32,7 @@
 | [177](./177/) | sobrecarga de metodos parametros nullable | posible errata    
 | [194](./194/) | Dictionary<TKey,TValue> Dictionary.ContainsKey Dictionary.Add  |     
 | [228](./228/) | TryParse |  
-| [122375](./237/) | DataContractJsonSerializer | ReadObject : deserializar WriteObject: serializar  
+| [237](./237/) | DataContractJsonSerializer | ReadObject : deserializar WriteObject: serializar  
 | [252](./252/) | Array foreach | ojo que tiene trampa    
 | [253](./253/) | herencia |  posible erratillas en el código   
 | [255](./255/) | Metodos de extension |  (metodo estatico publico  parametro this Clase  llamada Clase.metodo())
