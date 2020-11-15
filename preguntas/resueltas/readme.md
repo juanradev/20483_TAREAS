@@ -16,6 +16,7 @@
 | [83](./83/) | public prorty vs public static property |      
 | [84](./84/) |  Convert.ToInt32 | similar a 95    
 | [95](./95/) | (int) | similar a 84    
+| [121](./121/) | MatchCollection Regex.Matches Exp. Regulares|   
 | [144](./144/) | eventos | al final esta la forma de declarar y utilizar eventos / delegados  
 | [162](./162/) | hash  |  HashAlgorithm Teoria
 | [168](./168/) | casting |    
