@@ -20,13 +20,14 @@
 | [95](./95/) | (int) | similar a 84    
 | [121](./121/) | Expresión regular List MatchCollection |  igual que la 161   
 | [125](./125/) | DataContractJsonSerializer | ReadObject : deserializar WriteObject: serializar
+| [127](./127/) | CryptoStream | 
 | [144](./144/) | eventos | al final esta la forma de declarar y utilizar eventos / delegados  
 | [161](./161/) | Expresión regular List MatchCollection |   igual que la 121
 | [162](./162/) | hash  |  HashAlgorithm Teoria
 | [168](./168/) | casting |    
 | [169](./169/) | #if DEBUG | directivas de compilacion 
 | [167](./167)  | DataContractSerializer / XMLSerializer. DataMember , XMlAttribute, Datimeoffset 
-| [170](./170/) | sintaxis switch/case |    
+| [170](./170/) | sintaxis switch/case |  
 | [172](./172/) | Hash  OJO __ES UNA ERRATA__|  
 | [173](./173/) | interfaces | clase que implementa dos interfaces y que tienen un metodo con el mismo nombre  
 | [174](./174/) | ThrowIfCancellationRequested |   
