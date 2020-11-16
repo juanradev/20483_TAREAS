@@ -33,4 +33,4 @@ Los miembros privados no son heredados por clases derivadas.
 Si desea que los miembros que de otro modo serían privados sean accesibles para las clases derivadas, debe anteponer al miembro la palabra clave protected.
 
 
-![captura](captura.PNG)
+![captura](Captura.PNG)

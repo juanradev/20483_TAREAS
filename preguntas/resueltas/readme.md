@@ -6,7 +6,7 @@
 | [10](./10/) | as tipo vs (tipo) | . as si falla no genera excepcion devuelve null.   as no es valido para int
 | [19](./10/)  | sintaxis switch/case
 | [20](./20/) | LINQ | select sobre string[]
-| [27](./27/readme.md) | lock | lock (lockObject) { .... } lockObject privado y sin más logica.
+| [27](./27/) | lock | lock (lockObject) { .... } lockObject privado y sin más logica.
 | [44](./44/) | metodos acceso | private solo a la clase
 | [50](./50/) | XmlSerializer | Ojo no hemos dado este objeto , se trata de los decoradores [] de la clase a serializar. Esta pregunta se puede sacar por lógica
 | [61](./61/) | casting | int = (int)(float)   

@@ -16,7 +16,7 @@ locations in the answer area. Each code segment may be used once, more than once
 need to drag the split bar between panes or scroll to view content.)   
 Select and Place:  
 
-![pregunta](pregunta1.PNG)
+![pregunta](pregunta1.png)
 
 
 Solución
