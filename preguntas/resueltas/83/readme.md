@@ -20,7 +20,7 @@ Si fuese static todas las instancias del game tendrían la misma puntuación
 
 https://csharp.2000things.com/tag/static-properties/
 
-![programa](captura.PNG)
+![programa](Captura.PNG)
 
 
 
