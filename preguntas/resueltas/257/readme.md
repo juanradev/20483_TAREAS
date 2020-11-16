@@ -26,7 +26,7 @@ OJO ESTA MAL!!!!
 
 SOLUCION
 
-![alt text](solucion.PNG "solucion")
+![alt text](solucion.png "solucion")
 
 
 Eplicación:
