@@ -11,6 +11,8 @@
 | [50](./50/) | XmlSerializer | Ojo no hemos dado este objeto , se trata de los decoradores [] de la clase a serializar. Esta pregunta se puede sacar por lógica
 | [61](./61/) | casting | int = (int)(float)   
 | [68](./68/) | DataContractJsonSerializer | utilizando un MemoryStream   
+| [69](./69/) | async / await Task | **!!!!ERRRATA!!!!!** 
+| [72](./72/) | Garbage Collector KeepAlive |
 | [73](./73/) | StringBuilder | alguna duda conceptual...    
 | [78](./78/) | IEquatable | Implementar Equals    
 | [83](./83/) | public prorty vs public static property |      
