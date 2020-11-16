@@ -43,7 +43,7 @@ c)  No se puede convertir el tipo 'System.Collections.ArrayList' en 'int[]' [95]
 
 d)  El operador as se debe usar con un tipo de referencia o un tipo que acepte valores NULL ('int' es un tipo de valor que no acepta valores NULL) [95]csharp(CS0077)
 
-![alt text](solucion.PNG "solucion")
+![alt text](solucion1.PNG "solucion")
 
 ![alt text](solucion2.PNG "solucion")
 
