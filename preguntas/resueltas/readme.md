@@ -35,7 +35,8 @@
 | [175](./175/) | FileNotFoundException / __Console.SetOut()__ / StreamWriter / StreamReader |   
 | [176](./176/) | excepcciones order de | DivideByZeroException  ArithmeticException    
 | [177](./177/) | sobrecarga de metodos parametros nullable | posible errata    
-| [194](./194/) | Dictionary<TKey,TValue> Dictionary.ContainsKey Dictionary.Add  |     
+| [194](./194/) | Dictionary<TKey,TValue> Dictionary.ContainsKey Dictionary.Add  |   
+| [234](./234/) | LINQ (GROUP)   |    
 | [228](./228/) | TryParse |  
 | [237](./237/) | DataContractJsonSerializer | ReadObject : deserializar WriteObject: serializar  
 | [240](./240/) | HttpClient GetStringAsync async Task| 
