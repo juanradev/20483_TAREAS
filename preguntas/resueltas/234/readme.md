@@ -23,6 +23,10 @@ solucion:
 ![c3](c3.PNG "c3")
 
 
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/basic-linq-query-operations
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/group-clause
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/orderby-clause
+
 
 ![demo](demo.PNG "demo")
 
