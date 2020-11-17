@@ -21,6 +21,7 @@
 | [121](./121/) | Expresión regular List MatchCollection |  igual que la 161   
 | [125](./125/) | DataContractJsonSerializer | ReadObject : deserializar WriteObject: serializar
 | [127](./127/) | CryptoStream | 
+| [139](./139/) | LINQ | 
 | [144](./144/) | eventos | al final esta la forma de declarar y utilizar eventos / delegados  
 | [161](./161/) | Expresión regular List MatchCollection |   igual que la 121
 | [162](./162/) | hash  |  HashAlgorithm Teoria
