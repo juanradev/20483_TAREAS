@@ -45,6 +45,7 @@
 | [253](./253/) | herencia |  posible erratillas en el código   
 | [255](./255/) | Metodos de extension |  (metodo estatico publico  parametro this Clase  llamada Clase.metodo())
 | [257](./257/) | Operadores de incremento/decremento/comparación (comparación perezosa) | ojo hay que entenderlo y es Errata    
+| [258](./258/) | LINQ Skip() Take() | __ERRATA__
 | [283](./283/) | Sintaxis DEBUG/TRACE/ASSERT |     
 
 

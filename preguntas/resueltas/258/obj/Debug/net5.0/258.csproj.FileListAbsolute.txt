@@ -1,0 +1,16 @@
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\bin\Debug\net5.0\258.exe
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\bin\Debug\net5.0\258.deps.json
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\bin\Debug\net5.0\258.runtimeconfig.json
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\bin\Debug\net5.0\258.runtimeconfig.dev.json
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\bin\Debug\net5.0\258.dll
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\bin\Debug\net5.0\ref\258.dll
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\bin\Debug\net5.0\258.pdb
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\obj\Debug\net5.0\258.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\obj\Debug\net5.0\258.GeneratedMSBuildEditorConfig.editorconfig
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\obj\Debug\net5.0\258.AssemblyInfoInputs.cache
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\obj\Debug\net5.0\258.AssemblyInfo.cs
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\obj\Debug\net5.0\258.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\obj\Debug\net5.0\258.dll
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\obj\Debug\net5.0\ref\258.dll
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\obj\Debug\net5.0\258.pdb
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\258\obj\Debug\net5.0\258.genruntimeconfig.cache
