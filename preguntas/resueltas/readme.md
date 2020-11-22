@@ -41,6 +41,7 @@
 | [228](./228/) | TryParse |  
 | [237](./237/) | DataContractJsonSerializer | ReadObject : deserializar WriteObject: serializar  
 | [240](./240/) | HttpClient GetStringAsync async Task| 
+| [245](./245/) | DELEGADOS Func<TResult> / Action<>| Func  devueleve un TResult Action no  
 | [252](./252/) | Array foreach | ojo que tiene trampa    
 | [253](./253/) | herencia |  posible erratillas en el código   
 | [255](./255/) | Metodos de extension |  (metodo estatico publico  parametro this Clase  llamada Clase.metodo())
