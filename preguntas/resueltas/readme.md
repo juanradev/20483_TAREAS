@@ -48,6 +48,7 @@
 | [257](./257/) | Operadores de incremento/decremento/comparación (comparación perezosa) | ojo hay que entenderlo y es Errata    
 | [258](./258/) | LINQ Skip() Take() | __ERRATA__
 | [274](./274/) | LINQ GROUP() Aggregate() | __ERRATA__
+| [279](./279/) | #if DEBUG  | 
 | [283](./283/) | Sintaxis DEBUG/TRACE/ASSERT |     
 
 
