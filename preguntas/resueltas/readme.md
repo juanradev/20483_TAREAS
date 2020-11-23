@@ -41,6 +41,7 @@
 | [234](./234/) | LINQ (GROUP)   |    
 | [228](./228/) | TryParse |  
 | [237](./237/) | DataContractJsonSerializer | ReadObject : deserializar WriteObject: serializar  
+| [211](./211/) | PerformanceCounterType | 
 | [240](./240/) | HttpClient GetStringAsync async Task| 
 | [245](./245/) | DELEGADOS Func<TResult> / Action<>| Func  devueleve un TResult Action no  
 | [252](./252/) | Array foreach | ojo que tiene trampa    
