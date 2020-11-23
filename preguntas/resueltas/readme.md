@@ -13,7 +13,8 @@
 | [68](./68/) | DataContractJsonSerializer | utilizando un MemoryStream   
 | [69](./69/) | async / await Task | **!!!!ERRRATA!!!!!** 
 | [72](./72/) | Garbage Collector KeepAlive |
-| [73](./73/) | StringBuilder | alguna duda conceptual...    
+| [73](./73/) | StringBuilder | alguna duda conceptual... 
+| [74](./74/) | PerfomanceCounter | PerfomanceCounter    
 | [78](./78/) | IEquatable | Implementar Equals    
 | [83](./83/) | public prorty vs public static property |      
 | [84](./84/) |  Convert.ToInt32 | similar a 95    

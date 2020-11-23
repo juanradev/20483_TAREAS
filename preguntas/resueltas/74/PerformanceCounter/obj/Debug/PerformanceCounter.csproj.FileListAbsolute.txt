@@ -1,0 +1,7 @@
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\74\PerformanceCounter\bin\Debug\PerformanceCounter.exe.config
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\74\PerformanceCounter\bin\Debug\PerformanceCounter.exe
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\74\PerformanceCounter\bin\Debug\PerformanceCounter.pdb
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\74\PerformanceCounter\obj\Debug\PerformanceCounter.csprojAssemblyReference.cache
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\74\PerformanceCounter\obj\Debug\PerformanceCounter.csproj.CoreCompileInputs.cache
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\74\PerformanceCounter\obj\Debug\PerformanceCounter.exe
+D:\20_610\20483\20483_TAREAS\preguntas\resueltas\74\PerformanceCounter\obj\Debug\PerformanceCounter.pdb
