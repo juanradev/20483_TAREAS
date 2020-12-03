@@ -3,7 +3,9 @@ You have the following code.
 
 ![c1](c1.PNG)
 
-CORRECTA
+
+LA RESPUESTA 
+CORRECTA  B
 
 
             while (myData.Count != 0)
