@@ -4,7 +4,7 @@ DRAG DROP
 You have a class named Product that has a property named Name.  
 You have the following code.  
 
-![c1.PNG](C1.PNG)
+![c1.PNG](c1.PNG)
 
 You need to get the Name property of oneProduct.  
 How should you complete the code? To answer, drag the appropriate code elements to the correct targets.  
@@ -13,12 +13,12 @@ between panes or scroll to view content.
 NOTE: Each correct selection is worth one point.  
 
 
-![c2.PNG](C2.PNG)
+![c2.PNG](c2.PNG)
 
 
 SOLUCION  __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__ 
 
-![c2.PNG](C3.PNG)
+![c3.PNG](c3.PNG)
 
 
 SOLUCION CORRECTA
