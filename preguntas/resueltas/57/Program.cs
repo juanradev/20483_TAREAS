@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections;
+
 using System.Collections.Generic;
-using System.Runtime.Serialization;
+
 using System.Linq;
-using System.IO;
-using System.Runtime.Serialization.Json;
-using System.Net;
-using System.Web;
+
 using System.Text.RegularExpressions;
 
 
@@ -15,6 +12,7 @@ namespace _57
     class Program
     {
 
+        
         static void MostrarResultado ( string opcion, List<string> lista)
         {
             Console.Write($"Opción: {opcion}    :   ");
@@ -25,6 +23,12 @@ namespace _57
         }
         static void Main(string[] args)
         {
+
+
+
+
+
+
              const string pattern = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
              // la he recogido de https://docs.microsoft.com/es-es/dotnet/standard/base-types/how-to-verify-that-strings-are-in-valid-email-format#:~:text=Usar%20una%20expresi%C3%B3n%20regular%20para%20validar%20un%20correo,la%20estructura%20de%20un%20correo%20electr%C3%B3nico%20es%20v%C3%A1lida.
              const string entradavalida  ="john@doe.com";
