@@ -12,7 +12,7 @@ NOTE: Each correct selection is worth one point.
 ![c1](c1.PNG)
 ![c2](c1.PNG)
 
-RESPUESTA BC __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__
+RESPUESTA B C __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__
 
 CORRECTA A y C
 
@@ -21,13 +21,13 @@ D devuelve Sucess es decir en caso de que la encuentre True
 
 Salida de la prueba
 
-prueba con john@doe.com
-Opción: A    :   resultado :john@doe.com
-Opción: B    :   
-Opción: C    :   resultado :john@doe.com
-Opción: D    :   resultado :True
-prueba con pepe@pepe@pepe
-Opción: A    :   
-Opción: B    :   
-Opción: C    :   
-Opción: D    :
+prueba con john@doe.com  
+Opción: A    :   resultado :john@doe.com  
+Opción: B    :     
+Opción: C    :   resultado :john@doe.com  
+Opción: D    :   resultado :True  
+prueba con pepe@pepe@pepe  
+Opción: A    :     
+Opción: B    :     
+Opción: C    :     
+Opción: D    :  
