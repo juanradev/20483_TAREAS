@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RateSheet>
+<rate category="buyout" date="2012-03-22">
+<value>0.0375</value>
+</rate>
+<rate category="fixed" date="2012-03-23">
+<value>0.0475</value>
+</rate>
+</RateSheet>
