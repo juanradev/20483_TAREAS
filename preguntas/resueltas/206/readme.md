@@ -4,14 +4,14 @@ DRAG DROP
 You are developing a C# application. The application includes a class named Rate. The following code
 segment implements the Rate class:
 
-![c1](C1.PNG)   
+![c1](c1.PNG)   
 
-![c2](C2.PNG)  
+![c2](c2.PNG)  
 
-![c3](C3.PNG)  
+![c3](c3.PNG)  
 __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__  
 
-![c4](C4.PNG)  
+![c4](c4.PNG)  
 
 La solición da un error Element' is an invalid XmlNodeType.
 
