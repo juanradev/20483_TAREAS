@@ -16,10 +16,10 @@ __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__ __ERRATA__
 La solición da un error Element' is an invalid XmlNodeType.
 
 LA Solución correcta es 
-     while (reader.ReadToFollowing("rate"))
-     reader.MoveToFirstAttribute();
-     reader.MoveToNextAttribute();
-     __ reader.ReadToFollowing("value");__
+     while (reader.ReadToFollowing("rate"))   
+     reader.MoveToFirstAttribute();   
+     reader.MoveToNextAttribute();   
+     __ reader.ReadToFollowing("value");__   
 
 
 ````
