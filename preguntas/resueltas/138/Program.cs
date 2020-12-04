@@ -19,9 +19,9 @@ namespace _138
             
             string mensaje = $"Prueba opcion a {price}";
            
-            Regex reg = new Regex( @"^\d+(\.\d\d)?$");
+           
             //Regex reg = new Regex( @"^(\d{1}\.)?(\d+\.?)+(,\d{2})?$");
-            if (reg.IsMatch(price)) 
+            if ( Regex.IsMatch(price, @"^\d+(\.\d\d)?$"))
                 System.Console.WriteLine($"{mensaje} valid Price");
             else
                   System.Console.WriteLine($"{mensaje} INVALID Price");
