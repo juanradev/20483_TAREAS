@@ -21,5 +21,5 @@ Respuesta correcta D Nan
 
 double (0.00d/0.00d); NaN  
 float  (0.00f/0.00f); NaN  
-decimal (0.00d/0.00d); Attempted to divide by zero.  
+decimal (0.00m/0.00m); Attempted to divide by zero.  
 integer (0/0); Attempted to divide by zero.  

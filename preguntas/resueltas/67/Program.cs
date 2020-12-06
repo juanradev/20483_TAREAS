@@ -16,11 +16,11 @@ namespace _67
             decimal xd, yd;
             xd=0.00m; yd = 0.00m;
             try{
-                System.Console.WriteLine($"decimal (0.00d/0.00d); {xd/yd}");}
+                System.Console.WriteLine($"decimal (0.00m/0.00m); {xd/yd}");}
 
             catch (Exception ex )
             {
-                System.Console.WriteLine($"decimal (0.00d/0.00d); {ex.Message}");  
+                System.Console.WriteLine($"decimal (0.00m/0.00m; {ex.Message}");  
             }
             int xi, yi;
             xi=0; yi=0;
