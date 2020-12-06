@@ -6,11 +6,11 @@ You have the following code. (Line numbers are included for reference only.)
 ![c1](c1.PNG)
 
 
-What is the output of line 04?
-A. Error
-B. 0
-C. null
-D. NaN
+What is the output of line 04?  
+A. Error  
+B. 0  
+C. null  
+D. NaN  
 
 
 
