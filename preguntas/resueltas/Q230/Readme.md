@@ -92,7 +92,7 @@ namespace Q230
 
 Resultado en la consola después de la ejecución:
 
-![image-20201205165538495](./images/image-20201205165538495.png)
+![image-20201205165538495](./Images/image-20201205165538495.png)
 
 Un fichero con la serialización de la Classe2 con DataContractSerializer es generado:
 
